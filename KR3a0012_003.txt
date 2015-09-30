@@ -1,9 +1,16 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 徐幹中論
-#+DATE: 2015-09-11 03:50:49.841456
-#+PROPERTY: ID KR3a0012
-#+PROPERTY: BASEEDITION SBCK    
-#+PROPERTY: WITNESS SBCK
+# -*- mode: mandoku-view -*-
+#+TITLE: 中論
+#+DATE: 2015-09-23 10:09:39
+#+PROPERTY: LASTPB  <md:KR3a0012_SBCK_002-1a>
 #+PROPERTY: JUAN 3
-#+PROPERTY: FILE SB03n0086-003徐幹中論-跋.
-<pb:KR3a0012_SBCK_003-1a>¶
+
+¶
+<md:KR3a0012_SBCK_003-1a>¶
+<pb:KR3a0012_WYG_003-1a>
+中論二卷漢司空軍謀祭酒掾屬五官將文學北海徐
+幹偉長譔有序而無名氏幹鄴下七子之一人也建安
+之間疾辭人美麗之文不能敷散道教故著中論辭義
+典雅當世嘉之按唐志六卷今本二卷二十篇宋大理
+正山隂石邦哲手校題識邦哲字熈明再世藏書至治
+二年得之錢塘仇逺氏明年夏五月已酉平原陸友友
+仁父記
